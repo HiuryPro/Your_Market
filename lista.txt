@@ -1,0 +1,10 @@
+Suco
+3.00
+Laranja
+4.00
+Pera
+5.00
+Farinha
+4
+Suco
+7.00
